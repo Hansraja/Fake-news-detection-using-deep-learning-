@@ -1,4 +1,4 @@
-# 🧠 Fake News Detection Using Deep Learning
+# 🧠 Real or Fake News Classifier
 
 ## 📌 Introduction
 
